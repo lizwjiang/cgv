@@ -7,5 +7,5 @@ For certificate generation
 - Client, Server and f5 HW load balancer that is deployed between client and server
 
 For certificate validation
-- client and server
+- Client and server
 - Common Access Card
